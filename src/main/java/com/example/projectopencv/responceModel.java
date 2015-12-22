@@ -1,11 +1,11 @@
 package com.example.projectopencv;
 
-public class responceModel {
+public class ResponceModel {
 
 	private String path;
 	private String title;
 	
-	public responceModel(String d,String t) {
+	public ResponceModel(String d,String t) {
 		path=d;
 		title=t;
 	}

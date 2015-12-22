@@ -4,7 +4,7 @@ import org.fusesource.hawtjni.runtime.Library;
 
 import ch.qos.logback.core.util.Loader;
 
-public class opencvLoader {
+public class OpencvLoader {
 
 	public static String version="2.4.11";
 	private static Object initializeLock=new Object();
