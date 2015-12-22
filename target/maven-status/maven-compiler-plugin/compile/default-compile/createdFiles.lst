@@ -1,5 +1,6 @@
 com\example\projectopencv\Application.class
 com\example\projectopencv\RestService.class
+com\example\projectopencv\ResponceModel.class
 com\example\projectopencv\coreclasses\Converter.class
-com\example\projectopencv\opencvLoader.class
-com\example\projectopencv\responceModel.class
+com\example\projectopencv\UploadedImage.class
+com\example\projectopencv\OpencvLoader.class
